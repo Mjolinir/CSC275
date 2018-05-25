@@ -1,0 +1,26 @@
+Name ........:  weeds
+ID ..........:  Weed
+Color .......:  green
+Poisonous ...:  false
+Edible ......:  false
+Medicinal ...:  false
+
+Name .....:     sunflower
+ID .......:     Flower
+Color ....:     yellow
+Thorns ...:     false
+Smell ....:     nice
+
+Name ........:  weeds
+ID ..........:  Weed
+Color .......:  green
+Poisonous ...:  false
+Edible ......:  false
+Medicinal ...:  false
+
+Name .....:     sunflower
+ID .......:     Flower
+Color ....:     yellow
+Thorns ...:     false
+Smell ....:     nice
+
